@@ -20,22 +20,26 @@ export default function Home() {
   return (
     <>
 
-      <div className="bg-white">
+      <div className="">
 
-        <Hero />
-        <MyChatbot />
-        <AfterHero />
-        <ServicesWithOffer />
-        <StatsOverview />
-        <LogoSlider />
-        <BusinessGrowthCard />
-        {/* <TestimonialsComponent /> */}
-        <TestimonialComponents />
-        <Methodology />
-        {/* <IndustryExperts /> */}
-        {/* <LeadershipCarousel /> */}
-        <FAQ />
-        <MeetOurTeeml />
+        <div>
+          <Hero />
+          <div className="fixed bottom-5 right-2 z-50">
+            <MyChatbot />
+          </div>
+          <AfterHero />
+          <ServicesWithOffer />
+          <StatsOverview />
+          <LogoSlider />
+          <BusinessGrowthCard />
+          {/* <TestimonialsComponent /> */}
+          <TestimonialComponents />
+          <Methodology />
+          {/* <IndustryExperts /> */}
+          {/* <LeadershipCarousel /> */}
+          <FAQ />
+          <MeetOurTeeml />
+        </div>
       </div>
     </>
   );

@@ -37,7 +37,7 @@ const UniqueNavbar = () => {
           <Link to='/portfolio'>Portfolio</Link>
           <Link to='/services'>Services</Link>
           <Link to='/gallery'>Gallery</Link>
-          <Link to='/careers'>Careers</Link>
+          {/* <Link to='/careers'>Careers</Link> */}
         </ul>
 
         {/* Hamburger Icon */}
@@ -111,9 +111,9 @@ const UniqueNavbar = () => {
             <motion.li whileHover={{ x: 10 }} whileTap={{ scale: 0.95 }}>
               <Link to="/gallery" className="text-gray-800 font-semibold">Gallery</Link>
             </motion.li>
-            <motion.li whileHover={{ x: 10 }} whileTap={{ scale: 0.95 }}>
+            {/* <motion.li whileHover={{ x: 10 }} whileTap={{ scale: 0.95 }}>
               <Link to="/careers" className="text-gray-800 font-semibold">Careers</Link>
-            </motion.li>
+            </motion.li> */}
           </ul>
         </div>
       </motion.div>

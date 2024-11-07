@@ -9,7 +9,7 @@ const Hero = () => {
       {/* Background Video */}
       <video
         className="absolute inset-0 object-cover w-full h-full"
-        src="./BrainWithout .mp4" // Replace with the path to your video file
+        src="./BrainWithout_.mp4" // Replace with the path to your video file
         autoPlay
         loop
         muted
@@ -37,7 +37,7 @@ const Hero = () => {
           animate={{ x: 0, opacity: 1 }} // Final position and opacity
           transition={{ type: 'spring', stiffness: 100, duration: 0.6 }} // Animation transition
         >
-          Innovative Solutions for a Digital World
+          Lighting Up Your Digital World
         </motion.p>
 
       </div>
