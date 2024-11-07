@@ -25,9 +25,9 @@ const StatsOverview = () => {
 
   // Effect to start the counter animation
   useEffect(() => {
-    animateCounter(1, setExperience); // Years of Experience (Target: 1)
-    animateCounter(10, setClients); // Happy Clients (Target: 10)
-    animateCounter(20, setEmployees); // Employees (Target: 20)
+    animateCounter(12, setExperience); // Years of Experience (Target: 1)
+    animateCounter(350, setClients); // Happy Clients (Target: 10)
+    animateCounter(50, setEmployees); // Employees (Target: 20)
     animateCounter(1, setOffices); // Offices (Target: 1)
 
     // No cleanup needed as requestAnimationFrame cleans up automatically
