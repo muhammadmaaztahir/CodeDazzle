@@ -53,8 +53,8 @@ const leadershipData = [
     image: "./Samee.jpg", // Replace with actual image path
   },
   {
-    name: "Naseer Ahmed",
-    title: "Frontend Developer",
+    name: "Ahmed Naseer Hussain",
+    title: "Full Stack Developer",
     image: "./Nasir.jpg", // Replace with actual image path
   },
   {

@@ -11,7 +11,7 @@ const Services = () => {
         backgroundImage="./image@2x.png" // Use your desired header image
       />
 
-      <AppDevelopmentCard
+      <AppDevelopmentCard 
         bottom="-1rem"
         left="-1rem"
         image={techUsed}
