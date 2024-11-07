@@ -81,7 +81,7 @@ const TestimonialComponent = () => {
   };
 
   return (
-    <div className="py-10 flex justify-center">
+    <div className="py-10 flex justify-center px-6">
       <div className="w-full max-w-6xl px-4">
         <h2 className="text-center text-3xl font-semibold text-gray-800 mb-8">
           Testimonials

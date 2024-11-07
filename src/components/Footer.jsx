@@ -15,7 +15,7 @@ import logo from "../assets/logo.png";
 export default function Footer() {
   return (
     <footer className="bg-[#0c1a3c] text-white w-full py-10">
-      <div className="container mx-auto px-4 py-10 md:px-20 md:py-12">
+      <div className="container mx-auto px-4 py-10 md:py-12 lg:px-20">
         <div className="flex flex-col md:flex-row justify-between gap-8">
           <div className="flex flex-col items-center mb-6 md:mb-0">
             <RouterLink to="/" className="flex items-center text-white mb-4">

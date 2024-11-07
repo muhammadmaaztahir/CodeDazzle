@@ -33,7 +33,7 @@ export default function Home() {
         <TestimonialComponents />
         <Methodology />
         {/* <IndustryExperts /> */}
-        <LeadershipCarousel />
+        {/* <LeadershipCarousel /> */}
         <FAQ />
         <MeetOurTeeml />
       </div>
