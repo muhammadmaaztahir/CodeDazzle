@@ -15,13 +15,13 @@ const DomainExpertise = () => {
     {
       title: 'Committed to quality excellence',
       description:
-        'To ensure its offerings are compliant to various international quality standards, NETSOL meticulously adheres to various quality stipulations issued by quality ensuring authorities. NETSOL received CMMI Level 5 Certification in 2006, the highest internationally recognized quality assurance standard for enhancing software development processes. In addition, the company successfully achieved both SOC 2 Type 1 and SOC 2 Type 2 compliance, demonstrating the company’s continued dedication to safeguarding the data of its clients and their customers.',
+        'To ensure its offerings are compliant to various international quality standards, Code Dazzle meticulously adheres to various quality stipulations issued by quality ensuring authorities. The highest internationally recognized quality assurance standard for enhancing software development processes. In addition, the company successfully achieved both SOC 2 Type 1 and SOC 2 Type 2 compliance, demonstrating the company’s continued dedication to safeguarding the data of its clients and their customers.',
       bgImage: img1,
     },
     {
       title: 'Pioneers in the industry',
       description:
-        'We are proud to be the first to introduce a full suite of mobile-enabled digital transformation solutions for the global asset finance and leasing industry (formerly NFS Digital). NETSOL also pioneered the world’s first marketplace of AI-driven products for the global credit, finance, and leasing industry (formerly Appex Now).',
+        'We are proud to be the first to introduce a full suite of mobile-enabled digital transformation solutions for the global asset finance and leasing industry (formerly NFS Digital). Code Dazzle also pioneered the world’s first marketplace of AI-driven products for the global credit, finance, and leasing industry (formerly Appex Now).',
       bgImage: img2,
     },
     {
@@ -33,7 +33,7 @@ const DomainExpertise = () => {
     {
       title: 'Harnessing the power of AI',
       description:
-        'In 2018, NETSOL embarked on a groundbreaking journey, establishing its AI division with the vision to utilize the power of AI to revolutionize how institutions navigate the complexities of the modern market. Today, as a trusted industry leader in its realm of AI-powered innovation, NETSOL transforms the software landscape. From risk assessment to customer engagement, AI solutions empower our partners to stay ahead in an ever-evolving industry. We now cater to the diverse range of other sectors as well.',
+        'In 2023, Code Dazzle embarked on a groundbreaking journey, establishing its AI division with the vision to utilize the power of AI to revolutionize how institutions navigate the complexities of the modern market. Today, as a trusted industry leader in its realm of AI-powered innovation, Code Dazzle transforms the software landscape. From risk assessment to customer engagement, AI solutions empower our partners to stay ahead in an ever-evolving industry. We now cater to the diverse range of other sectors as well.',
       bgImage: img4,
     },
   ];
@@ -93,7 +93,10 @@ const DomainExpertise = () => {
         {/* Right Side - Paragraph */}
         <div className="md:w-1/2">
           <p className="text-black text-lg leading-relaxed">
-            10Pearls is a leading web app development company delivering digital transformation to organizations of all sizes. You can count on us for the whole lifecycle of your software project: planning, development, security, optimization, and ongoing maintenance. Our expert web app development team streamlines processes, enabling you to deliver and realize value more efficiently.
+            Transforming Technology into Meaningful Impact 
+          </p>
+          <p className="text-black text-lg leading-relaxed mt-10">
+          Our approach empowers us to create remarkable experiences that fuel growth and success for all involved. Together, let’s elevate your potential through the strength of digital transformation.
           </p>
         </div>
       </div>

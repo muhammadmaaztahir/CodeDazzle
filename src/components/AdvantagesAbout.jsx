@@ -36,7 +36,7 @@ const AdvantagesAbout = () => {
 
   return (
     <div className="bg-[#0A0A2A] text-white p-8 rounded-3xl max-w-7xl mx-auto my-10 shadow-lg">
-      <h2 className="text-2xl font-bold mb-6 text-center">Advantages of Web App Development with 10Pearls</h2>
+      <h2 className="text-2xl font-bold mb-6 text-center">Advantages of Web App Development with Code Dazzle</h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {advantages.map((advantage, index) => (
           <div

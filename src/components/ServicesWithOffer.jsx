@@ -17,23 +17,23 @@ const services = [
     id: 1,
     name: "App Development",
     title: "App Development",
-    description: "25 years of experience in app development with a focus of specific niche cutting-edge technologies to craft custom solutions that seamlessly integrate with your unique requirements, revolutionizing how you operate.",
+    description: "With 9 years of dedicated experience in app development, Code Dazzle is committed to delivering custom solutions that seamlessly integrate with your business needs, driving transformation and efficiency.",
     benefits: [
       {
-        title: "Cutting-Edge Expertise:",
-        description: "Our talented experts is proficient in utilizing the latest technologies to develop custom solutions tailored to your needs."
+        title: "Innovative Expertise:",
+        description: "Our skilled team utilizes the latest technologies to create solutions tailored precisely to your goals, from app development to advanced AI-driven capabilities."
       },
       {
         title: "Seamless Integration:",
-        description: "We specialize in integrating new technologies to solutions with your existing infrastructure, ensuring a smooth transition."
+        description: "We specialize in smoothly integrating new technologies into your existing systems, ensuring minimal disruption and maximum benefit."
       },
       {
-        title: "Comprehensive Development Services:",
-        description: "From machine learning to natural language processing, our AI Development Services elevate your organization's capabilities."
+        title: "CompleteDevelopment Services:",
+        description: "From machine learning to natural language processing, our AI solutions enhance your organization’s capabilities, keeping you ahead in a competitive market."
       },
       {
-        title: "Empowering Organizational Capabilities:",
-        description: "Our mission is to empower organizations. We strive to not only stand out from in the dynamic landscape of AI technology."
+        title: "Empowering Growth:",
+        description: "Code Dazzle’s mission is to empower businesses in today’s fast-paced tech landscape, providing tools that adapt and evolve with your organizational needs."
       }
     ]
   },
