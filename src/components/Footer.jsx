@@ -11,6 +11,7 @@ import {
   Email,
 } from "@mui/icons-material";
 import logo from "../assets/logo.png";
+import NewsLetter from '../components/NewsLetter'
 
 export default function Footer() {
   return (
@@ -90,19 +91,7 @@ export default function Footer() {
           </div>
 
           {/* Newsletter Section */}
-          <div className="flex flex-col mb-6 md:mb-0">
-            <h6 className="mb-2 text-lg font-semibold">Join Our Newsletter</h6>
-            <div className="flex flex-col md:flex-col gap-2">
-              <input
-                type="text"
-                placeholder="Enter Email"
-                className="bg-white/10 text-white text-sm placeholder-white/60 rounded-md px-2 py-1 focus:outline-none border border-white/30 focus:border-white"
-              />
-              <button className="bg-[#9c4d9e] hover:bg-[#8a447c] text-white px-4 py-1 rounded-md">
-                SUBMIT
-              </button>
-            </div>
-          </div>
+          <NewsLetter/>
         </div>
 
         {/* Bottom Section */}
