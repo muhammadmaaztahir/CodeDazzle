@@ -21,7 +21,7 @@ const leadershipData = [
   },
   {
     name: "Muhammad Arsalan Aftab",
-    title: "Frontend Developer",
+    title: "MERN-STACK Developer",
     image: "./Arsalan.jpeg", // Replace with actual image path
   }, {
     name: "Taha Sheikh",

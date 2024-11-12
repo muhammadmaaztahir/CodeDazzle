@@ -27,7 +27,7 @@ export default function Footer() {
               />
             </RouterLink>
             <div className="flex gap-2">
-              <a href="https://www.facebook.com/people/Tuba-Nayaz/pfbid08R63uEpQAKHWzhxb5w2xYNsa9GQHWVcppnJRwS8FG6BUkSmV4qCnpP2jqPXwCBzNl/?mibextid=LQQJ4d" className="text-white">
+              <a href="https://www.facebook.com/profile.php?id=61564111583238&mibextid=ZbWKwL" className="text-white">
                 <Facebook />
               </a>
               <a href="https://www.linkedin.com/company/code-dazzle/about/" className="text-white">
