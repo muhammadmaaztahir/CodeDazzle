@@ -62,6 +62,11 @@ const leadershipData = [
     title: "Frontend Developer",
     image: "./J.jpeg", // Replace with actual image path
   },
+  {
+    name: "Muhammad Talha Haider",
+    title: "Frontend Developer",
+    image: "./talha.jpeg", // Replace with actual image path
+  },
   
   // Add more items as needed
 ];
