@@ -6,7 +6,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 const leadershipData = [
   {
-    name: "Miss Tuba",
+    name: "Tuba Ali",
     title: "Founder",
     image: "./mam.JPG", // Replace with actual image path
   },
